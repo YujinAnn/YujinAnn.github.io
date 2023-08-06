@@ -13,8 +13,6 @@ categories: jekyll update
 - Existing in memory and performing the role of a key operating system.
   - Process management, memory management, file system management, device management, I/O processing
 
-![image](https://github.com/YujinAnn/YujinAnn.github.io/assets/114452724/78a984a0-355f-40ef-b0e6-bb02b4c3ac89)
-
 ![Screenshot from 2023-08-05 20-36-51.png](/img/Screenshot from 2023-08-05 20-36-51.png)
 
 
@@ -34,7 +32,7 @@ categories: jekyll update
   - Bourne Shell (Bash), C Shell, Korn Shell, V Shell etc.
   - Checking the current usage Shell
 
-![image](https://github.com/YujinAnn/YujinAnn.github.io/assets/114452724/b6174ebc-9f3f-4a8d-a7da-4c7319bbc6d6)
+![Screenshot from 2023-08-05 18-18-11.png](/img/Screenshot from 2023-08-05 18-18-11.png)
 
 - Type of command
   - Non Interactive: after entering a command, it shows the result to the user without requiring the user to enter any special value.
@@ -45,4 +43,4 @@ categories: jekyll update
     - Option: located directly to the right of the command with the hyphen (-) symbol.
     - Argument: what follows the option
    
-  ![image](https://github.com/YujinAnn/YujinAnn.github.io/assets/114452724/fefcab8a-d418-46d3-bf26-f4276db48810)
+![Screenshot from 2023-08-05 20-57-49.png](/img/Screenshot from 2023-08-05 20-57-49.png)
