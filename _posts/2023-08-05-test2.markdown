@@ -1,29 +1,38 @@
 ---
 layout: post
-title:  "test"
+title:  "1. Basic Concept (1)"
 date:   2023-08-05 20:07:47 -0700
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+1. Basic Concept (1)
+(1) Kernel
 
-Jekyll requires blog post files to be named according to the following format:
+Kernel == Real LInux
+The program that manages computer resources for user programs to use.
+Link between hardware and software
+Existing in memory and performing the role of a key operating system.
+Process management, memory management, file system management, device management, I/O processing
 
-`YEAR-MONTH-DAY-title.MARKUP`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+(2) Shell
+Providing an interface between the system and a user.
+Command interpreter
+Basic functions of Shell
+Executing internal commands and external commands
+Command link (|): Pipe
+Input/Output redirection (>,<,>>,<<)
+Interpreting and replacing special characters, and replacing commands
+Managing regional/environmental variable
+Providing script programming language
+Types  of Shells
+Bourne Shell (Bash), C Shell, Korn Shell, V Shell etc.
+Checking the current usage Shell
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Type of command
+Non Interactive: after entering a command, it shows the result to the user without requiring the user to enter any special value.
+INteractive: while the commands are running, a series of questions are asked and the user answers. Then, it shows the results.
+Command Argument
+Users can enter additional information when entering commands.
+The form of an argument
+Option: located directly to the right of the command with the hyphen (-) symbol.
+Argument: what follows the option
