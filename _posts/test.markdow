@@ -11,6 +11,7 @@ Kernel == Real LInux
 The program that manages computer resources for user programs to use.
 Link between hardware and software
 Existing in memory and performing the role of a key operating system.
+![image](https://github.com/YujinAnn/YujinAnn.github.io/assets/114452724/78a984a0-355f-40ef-b0e6-bb02b4c3ac89)
 Process management, memory management, file system management, device management, I/O processing
 
 
@@ -27,6 +28,7 @@ Providing script programming language
 Types  of Shells
 Bourne Shell (Bash), C Shell, Korn Shell, V Shell etc.
 Checking the current usage Shell
+![image](https://github.com/YujinAnn/YujinAnn.github.io/assets/114452724/4774d011-d29a-4794-9125-10a09c723911)
 
 Type of command
 Non Interactive: after entering a command, it shows the result to the user without requiring the user to enter any special value.
