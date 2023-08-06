@@ -22,7 +22,7 @@ categories: jekyll update
 - Command interpreter
 - Basic functions of Shell
   - Executing internal commands and external commands
-  - Command link ('|'): Pipe
+  - Command link (\|): Pipe
   - Input/Output redirection (>,<,>>,<<)
   - Interpreting and replacing special characters, and replacing commands
   - Managing regional/environmental variable
