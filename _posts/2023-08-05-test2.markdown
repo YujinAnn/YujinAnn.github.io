@@ -5,8 +5,8 @@ date:   2023-08-05 20:07:47 -0700
 categories: jekyll update
 ---
 
-
-1. Kernel
+# 1. Basic Concept (1)
+## (1) Kernel
    
 - Kernel == Real LInux
 - The program that manages computer resources for user programs to use.
@@ -16,7 +16,7 @@ categories: jekyll update
 ![image](https://github.com/YujinAnn/YujinAnn.github.io/assets/114452724/78a984a0-355f-40ef-b0e6-bb02b4c3ac89)
 
 
-2. Shell
+## (2) Shell
    
 - Providing an interface between the system and a user.
 - Command interpreter
