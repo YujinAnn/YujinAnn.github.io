@@ -7,6 +7,7 @@ categories: jekyll update
 
 
 1. Kernel
+   
 - Kernel == Real LInux
 - The program that manages computer resources for user programs to use.
   - Link between hardware and software
@@ -16,6 +17,7 @@ categories: jekyll update
 
 
 2. Shell
+   
 - Providing an interface between the system and a user.
 - Command interpreter
 - Basic functions of Shell
