@@ -24,7 +24,7 @@ categories: jekyll update
   --f: forcing
   --r: copying directory
 
-![Screenshot from 2023-08-12 12-11-53](/img/Screenshot from  2023-08-12 12-11-53.png)
+![Screenshot from 2023-08-12 12-11-53](/img/Screenshot from 2023-08-12 12-11-53.png)
 
 ## (3) mv (move)
 - Used to rename or move files and directories
@@ -51,4 +51,4 @@ categories: jekyll update
     - record the results of the command by following the contents of an existing file.
 
 
-![Screenshot from 2023-08-12 13-58-25](/img/Screenshot from  2023-08-12 13-58-25.png)
+![Screenshot from 2023-08-12 13-58-25](/img/Screenshot from 2023-08-12 13-58-25.png)
