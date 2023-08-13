@@ -11,10 +11,8 @@ categories: jekyll update
 - It makes it easier to develop and debug programs and faster to compile.
 - Libraries can be used right away by linking since it is pre-compiled.
 - Libraries are distinguished by static and dynamic libraries based on compile options and its usage.
-
-### Place
-***
-- Libraries are located in the /lib or /usr/lib directory and its format is `lib*.a` or `lib*so`.
+- Place
+	- Libraries are located in the /lib or /usr/lib directory and its format is `lib*.a` or `lib*so`.
 
 ![Screenshot from 2023-08-13 13-20-10](/img/Screenshot from 2023-08-13 13-20-10.png)
 
