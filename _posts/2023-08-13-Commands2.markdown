@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "2. File handling commend"
+date:   2023-08-13 20:07:47 -0700
+categories: jekyll update
+---
+
+## (1) rm (Remove)
+  
+- Delete the file or directory
+- You must have permissions to remove the files or directories
+- -i: asking for confirmation	-r: deleting directory	-f: forcing
+- rm [file name]
+- rm -rf [directory name]
+
+
+## (2) cp (Copy)
+- Copying files or directories
+- File names can include absolute or relative paths
+- \#cp [source filename] [copy filename]
+- \#cp -r [source directory name] [copy directory name]
+- Option
+  --i: asking execution before overwriting
+  --f: forcing
+  --r: copying directory
+
+![Screenshot from 2023-08-12 12-11-53](/img/Screenshot from  2023-08-12 12-11-53.png)
+
+## (3) mv (move)
+- Used to rename or move files and directories
+- File names can include absolute or relative paths.
+- \#move [source file] [moving location]
+- Option
+  --i: asking execution before overwrite
+  --f: forcing
+
+![Screenshot from 2023-08-12 13-10-17](/img/Screenshot from 2023-08-12 13-10-17.png)
+
+## (4) Redirection
+- Change the direction of standard I/O
+  - Standard input: Keyboard, Standard output: Monitor
+  - The standard I/O can be specified as a file.
+(1) Input > Output : 
+  - Overwrite
+  - If the file of output does not exist, it creates a file.
+  - \# ls -l > list.txt
+    - send the results of the command to the list.txt file without printing it on the screen.
+(2) Input >> Output
+  - Append
+  - \# ls -l >> list.txt
+    - record the results of the command by following the contents of an existing file.
+
+
+![Screenshot from 2023-08-12 13-58-25](/img/Screenshot from  2023-08-12 13-58-25.png)
