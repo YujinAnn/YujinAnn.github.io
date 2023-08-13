@@ -27,14 +27,14 @@ categories: jekyll update
 
 
 ## Variable
-   ## (1) Input & Output
-      - The shell does not pre-declare a variable before it is used, and the variable is automatically created when the variable is assigned the first value.
-      - All variables are treated as strings.
-      - There must be no spaces on the left and right sides of = when substituting a variable.
-      - Use a ‘read’ statement to receive a value for a variable.
-      - To substitute a string with spaces, tie it with “ “.
-      - To output a value in a variable, use $[variable name]
-      - To output the character $, tie it with ‘$’ or add \ before it.
+### (1) Input & Output
+   - The shell does not pre-declare a variable before it is used, and the variable is automatically created when the variable is assigned the first value.
+   - All variables are treated as strings.
+   - There must be no spaces on the left and right sides of = when substituting a variable.
+   - Use a ‘read’ statement to receive a value for a variable.
+   - To substitute a string with spaces, tie it with “ “.
+   - To output a value in a variable, use $[variable name]
+   - To output the character $, tie it with ‘$’ or add \ before it.
       
 ![Screenshot from 2023-08-12 15-43-22](/img/Screenshot from 2023-08-12 15-43-22.png)
 
