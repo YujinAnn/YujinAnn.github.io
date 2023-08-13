@@ -38,25 +38,25 @@ categories: jekyll update
       
 ![Screenshot from 2023-08-12 15-43-22](/img/Screenshot from 2023-08-12 15-43-22.png)
 
-   ### (2) Numeric
-      - Make sure to add expr to calculate the value of a variable as a number, and tie them with `.
-      - When parentheses ‘(‘ or ‘)’ or multiplication ‘*’ are used, add ‘\’ before it.
-      - Put a space between an operator and an operand.
+### (2) Numeric
+   - Make sure to add expr to calculate the value of a variable as a number, and tie them with `.
+   - When parentheses ‘(‘ or ‘)’ or multiplication ‘*’ are used, add ‘\’ before it.
+   - Put a space between an operator and an operand.
 
 ![Screenshot from 2023-08-12 16-04-30](/img/Screenshot from 2023-08-12 16-04-30.png)
 
-   ### (3) Environment Variable
-      - Pre-set variables suitable for the system environment.
-      - It consists of uppercase letters to differentiate it from user variables.
-      - The values of these variables may differ depending on the individual setting of users.
-      - The value can be checked using : echo &[environment variable name]
-      - The value can change using : export [environment variable name]=[value]
+### (3) Environment Variable
+   - Pre-set variables suitable for the system environment.
+   - It consists of uppercase letters to differentiate it from user variables.
+   - The values of these variables may differ depending on the individual setting of users.
+   - The value can be checked using : echo &[environment variable name]
+   - The value can change using : export [environment variable name]=[value]
 
 ![Screenshot from 2023-08-12 18-16-25](/img/Screenshot from 2023-08-12 18-16-25.png)
 
-   ### (4) Parameter Variable
-      - If the script receives parameters, additional variables are created.
-      - The parameters are in the form of $0, $1, $2, …
+### (4) Parameter Variable
+   - If the script receives parameters, additional variables are created.
+   - The parameters are in the form of $0, $1, $2, …
 
 ![Screenshot from 2023-08-12 18-21-53](/img/Screenshot from 2023-08-12 18-21-53.png)
 
