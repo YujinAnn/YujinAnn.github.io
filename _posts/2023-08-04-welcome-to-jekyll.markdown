@@ -21,6 +21,8 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
+
+
 {% highlight ruby %}
 yujin@Yunicorn:/lib$ cd /lib
 yujin@Yunicorn:/lib$ ls
