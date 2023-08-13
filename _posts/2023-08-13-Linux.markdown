@@ -24,22 +24,15 @@ categories: jekyll update
 
 
 
-## (2) Shell
-   
-- Providing an interface between the system and a user.
-- Command interpreter
-- Basic functions of Shell
-  - Executing internal commands and external commands
-  - Command link (\|): Pipe
-  - Input/Output redirection (>,<,>>,<<)
-  - Interpreting and replacing special characters, and replacing commands
-  - Managing regional/environmental variable
-  - Providing script programming language
-- Types  of Shells
-  - Bourne Shell (Bash), C Shell, Korn Shell, V Shell etc.
-  - Checking the current usage Shell
+## (3) cat (Print)
+- Print a file written in text to the screen
+  - If there is a lot of output on the screen, only the last part can be checked.
+  - No ability to modify the contents of the file
+- \# cat [file name]
+- \# cat : sending a input, then printing it right away
 
-![Screenshot from 2023-08-05 18-18-11](/img/Screenshot from 2023-08-05 18-18-11.png)
+
+![Screenshot from 2023-08-12 14-39-22](/img/Screenshot from 2023-08-12 14-39-22.png)
 
 - Type of command
   - Non Interactive: after entering a command, it shows the result to the user without requiring the user to enter any special value.
