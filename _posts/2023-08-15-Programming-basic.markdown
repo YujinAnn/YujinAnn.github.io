@@ -50,7 +50,7 @@ categories: jekyll update
 - GCC
 	- C compiler provided by Linux (GNU CCompiler)
 	- Basically, it is installed in the directory /usr/local/bin
-	- `\# gcc [option] [filename]`
+	- `# gcc [option] [filename]`
 	- when compiling without options, it generates an executable code named a.out.
 	- Option
 		- -c : generate only an object file. (filename.o)
