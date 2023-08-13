@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 ## Types of code 
-<hr style="border:2px solid gray">
+<hr style="border:1px solid gray">
 - Source code
 	- Write a program in the text format.
 	- It can not be run.
@@ -18,7 +18,7 @@ categories: jekyll update
 	- It is created by linking the generated object code with the used libraries.
 
 ## Compile procedure
-<hr style="border:2px solid gray">
+<hr style="border:1px solid gray">
 ### Compile
 - The process of converting a source code in the form of text into an object code in the form of machine language that the CPU can understand.
 - Do not know where to load the actual memory.
@@ -43,6 +43,7 @@ categories: jekyll update
 - A program is processed by CPU after being registered in the kernel
 
 ## Compiler
+<hr style="border:1px solid gray">
 - GCC
 	- C compiler provided by Linux (GNU CCompiler)
 	- Basically, it is installed in the directory /usr/local/bin
