@@ -18,7 +18,7 @@ categories: jekyll update
 
 
 
-## .Static Library
+## Static Library
 ***
 ### What is it?
 - The executable code contains static library codes when compiling programs.
@@ -54,6 +54,8 @@ categories: jekyll update
 
 ![Screenshot from 2023-08-13 14-22-54](/img/Screenshot from 2023-08-13 14-22-54.png)
 
+
+
 ## Dynamic Library
 ***
 ### What is it?
@@ -70,4 +72,8 @@ categories: jekyll update
 - `# gcc -shared -o [library name] [object file 1] [object file 2] …`
    - library name is prefixed with `lib` and extension with `.so`.
 
+### Compiling a source file with a dynamic library.
+- Same with the method of compiling with a staic library.
+  
 ![Screenshot from 2023-08-13 14-34-53](/img/Screenshot from 2023-08-13 14-34-53.png)
+
