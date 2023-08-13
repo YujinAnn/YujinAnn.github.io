@@ -7,20 +7,20 @@ categories: jekyll update
 
 ## (1) pwd (print working directory)
   
--Print the absolute path of the current working directory
--# pwd
--# dirs: Print the relative path of the current working directory.
+- Print the absolute path of the current working directory
+- \# pwd
+- \# dirs: Print the relative path of the current working directory.
 
 ## (2) echo (Print)
--Print the text passed in as an argument.
--# echo [argument]
--Option
+- Print the text passed in as an argument.
+- \# echo [argument]
+- Option
   --n: suppress the newline character
   --e: add various escape characters
 
 
 
-![Screenshot from 2023-08-05 20-36-51](/img/Screenshot from 2023-08-05 20-36-51.png)
+![Screenshot from 2023-08-12 14-37-20](/img/Screenshot from  2023-08-12 14-37-20.png)
 
 
 
