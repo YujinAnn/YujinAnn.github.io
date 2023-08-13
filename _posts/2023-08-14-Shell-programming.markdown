@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 ## Basic
----   
+***
 - Execute multiple commands in a predetermined order
 - Interpreted and executed at run-time without compiling separately.
 - Variables, Condition statement, Loop statement, etc. can be used.
