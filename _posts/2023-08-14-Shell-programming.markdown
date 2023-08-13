@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 ## Basic
-   
+---   
 - Execute multiple commands in a predetermined order
 - Interpreted and executed at run-time without compiling separately.
 - Variables, Condition statement, Loop statement, etc. can be used.
@@ -22,11 +22,12 @@ categories: jekyll update
 
 
 ## .bash
-   
+---   
 - .bashrc is a Bash shell script that Bash runs whenever it is started interactively. It initializes an interactive shell session. You can put any command in that file that you could type at the command prompt.
 
 
 ## Variable
+---
 ### (1) Input & Output
    - The shell does not pre-declare a variable before it is used, and the variable is automatically created when the variable is assigned the first value.
    - All variables are treated as strings.
