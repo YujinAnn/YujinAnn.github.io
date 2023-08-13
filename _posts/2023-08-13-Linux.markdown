@@ -18,7 +18,7 @@ categories: jekyll update
   --n: suppress the newline character
   --e: add various escape characters
 
-![Screenshot from 2023-08-12 14-37-20](/img/Screenshot from  2023-08-12 14-37-20.png)
+![Screenshot from 2023-08-12 14-37-20](/img/Screenshot from 2023-08-12 14-37-20.png)
 
 ## (3) cat (Print)
 - Print a file written in text to the screen
@@ -34,4 +34,4 @@ categories: jekyll update
 - execute a string as a statement
 - \# eval [string]
 
-![Screenshot from 2023-08-12 15-08-12](/img/Screenshot from  2023-08-12 15-08-12.png)
+![Screenshot from 2023-08-12 15-08-12](/img/Screenshot from 2023-08-12 15-08-12.png)
