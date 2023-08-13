@@ -21,6 +21,28 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
+{% highlight ruby %}
+yujin@Yunicorn:/lib$ cd /lib
+yujin@Yunicorn:/lib$ ls
+accountsservice                       libdfalt.la                    NetworkManager
+apg                                   libdfalt.so                    nvidia
+apparmor                              libdfalt.so.0                  ogdi
+apt                                   libdfalt.so.0.0.0              OpenNI2
+aspell                                libfunc1.so                    openssh
+bfd-plugins                           libgdal.a                      os-prober
+binfmt.d                              libgdal.so                     os-probes
+binfmt-support                        libgdal.so.26                  os-release
+blt2.5                                libgdal.so.26.0.4              packagekit
+blueman                               libhdf4.settings               pcmciautils
+bluetooth                             libmfhdfalt.a                  pkgconfig
+brltty                                libmfhdfalt.la                 pkg-config.multiarch
+cmake                                 libmfhdfalt.so                 pm-utils
+cnf-update-db                         libmfhdfalt.so.0               policykit-1
+command-not-found                     libmfhdfalt.so.0.0.0           pppd
+compat-ld                             libnimCodecs.so                pulse-13.99.1
+console-setup                         libnimCodecs.so.0              python2.7
+{% endhighlight %}
+
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
