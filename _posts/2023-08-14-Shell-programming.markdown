@@ -27,7 +27,7 @@ categories: jekyll update
 
 
 ## Variable
-   ### (1) Input & Output
+   ## (1) Input & Output
       - The shell does not pre-declare a variable before it is used, and the variable is automatically created when the variable is assigned the first value.
       - All variables are treated as strings.
       - There must be no spaces on the left and right sides of = when substituting a variable.
