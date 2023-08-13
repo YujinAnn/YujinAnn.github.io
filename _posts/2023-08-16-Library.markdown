@@ -77,7 +77,7 @@ categories: jekyll update
   
 ![Screenshot from 2023-08-13 14-34-53](/img/Screenshot from 2023-08-13 14-34-53.png)
 
-### comparing a dynamic library and a static library.
+### Comparing a dynamic library and a static library.
 - The size of the executable file using a dynamic library is smaller than that of executable file using a static library.
 
 ![Screenshot from 2023-08-13 14-50-58](/img/Screenshot from 2023-08-13 14-50-58.png)
