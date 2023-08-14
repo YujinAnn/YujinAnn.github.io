@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 ## Problems on compiling a project
-
+---
 - It is very inefficient to individually compile packages consisting of multiple source files.
 - Each of the different files has a complex relationship with each other depending on the content of the code.
 - If there are modifications to some code, all files must be recompiled.
@@ -14,7 +14,7 @@ categories: jekyll update
 
 
 ## What is Make?
-
+---
 - A utility that enables a single command to automatically execute multiple commands or executable files.
 - A Shell script considering file dependency. 
 - Make reduces compile time, provides a better understanding of program dependencies, and makes it easier to management.
@@ -24,7 +24,7 @@ categories: jekyll update
   - In order to regenerate the target file, it recompiles the target file using a single command.
 
 ## Makefile
-
+---
 - Target can be used as `target files` that will generate or `Label`.
 
    
@@ -35,12 +35,14 @@ categories: jekyll update
 ![Screenshot from 2023-08-13 17-29-02](/img/Screenshot from 2023-08-13 17-29-02.png)
 
 ## Label
+---
 - The content of Target can be a label.
 - It can be used in the case of no dependency.
 
 ![Screenshot from 2023-08-13 17-35-05](/img/Screenshot from 2023-08-13 17-35-05.png)
 
 ## Macro
+---
 - A user-defined Shell variable to enable Makefile code being simply expressed.
 - Data type is `string`.
 - Macro is used as $(Macro). 
