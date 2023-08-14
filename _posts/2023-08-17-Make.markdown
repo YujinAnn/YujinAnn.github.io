@@ -23,8 +23,10 @@ categories: jekyll update
   - If parts of source files are modified in the program group, it automatically determines which part of the program group needs to be compiled.
   - In order to regenerate the target file, it recompiles the target file using a single command.
 
-## Makefile
+## How to use it?
 ---
+### Makefile
+
 - Target can be used as `target files` that will generate or `Label`.
 
    
@@ -34,15 +36,15 @@ categories: jekyll update
 
 ![Screenshot from 2023-08-13 17-29-02](/img/Screenshot from 2023-08-13 17-29-02.png)
 
-## Label
----
+### Label
+
 - The content of Target can be a label.
 - It can be used in the case of no dependency.
 
 ![Screenshot from 2023-08-13 17-35-05](/img/Screenshot from 2023-08-13 17-35-05.png)
 
-## Macro
----
+### Macro
+
 - A user-defined Shell variable to enable Makefile code being simply expressed.
 - Data type is `string`.
 - Macro is used as $(Macro). 
