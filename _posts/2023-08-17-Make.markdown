@@ -32,7 +32,7 @@ categories: jekyll update
    
 ![Screenshot from 2023-08-13 17-25-19](/img/Screenshot from 2023-08-13 17-25-19.png)
 
-- it compiles only the codes that have dependency on modified files.
+- It compiles only the codes that have dependency on only modified files.
 
 ![Screenshot from 2023-08-13 17-29-02](/img/Screenshot from 2023-08-13 17-29-02.png)
 
