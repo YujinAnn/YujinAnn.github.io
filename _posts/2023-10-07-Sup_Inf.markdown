@@ -12,7 +12,7 @@ categories: jekyll update
 - (2) if b is any other upper bound of S, then $b_0 \leq b$.
 - If it exists, the supremum of S is denoted sup(S).
 
-![Screenshot from 2023-08-05 20-36-51](/img/Screenshot from 2023-08-05 20-36-51.png)
+![Screenshot from 2023-10-07 20-36-51](/img/Screenshot from 2023-10-07 20-36-51.png)
 
 
 ## Infimum: greatest lower bound
@@ -25,4 +25,5 @@ categories: jekyll update
 ## Ex (1)
 - If $N \subseteq R$, sup(N) does not exiest. inf(N) = 1
 - If a set $A = {1/n | n \in N} = {1/1, 1/2, 1/3, ...}$ and $A \in R$, then sup(A) = 1 and inf(A) = 0.
-- If a set $A = {x \in Q | x^2 < 2}$ and $A \in R$, then $ -\sqrt{2} < x < \sqrt{2}$. However, $sup(A) \neq \sqrt{2}$ and $inf(A) \neq -\sqrt{2}$
+- If a set $A = \{x \in \mathbb{Q} \mid x^2 < 2\}$ and $A \in \mathbb{R}$, then $-\sqrt{2} < x < \sqrt{2}$. However, $\sup(A) \neq \sqrt{2}$ and $\inf(A) \neq -\sqrt{2}$.
+
