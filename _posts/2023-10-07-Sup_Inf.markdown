@@ -7,9 +7,9 @@ categories: jekyll update
 
 ## (1) Supremum: least upper bound
    
-- Let F be a set and \(S \subseteq F\) be nonempty. The supremum of S, if it exists, is some \(b_0 \in F\) such that 
-- (1) \(b_0\) is an upper bound of S
-- (2) if b is any other upper bound of S, then \(b_0 \leq b\).
+- Let F be a set and $S \subseteq F$ be nonempty. The supremum of S, if it exists, is some $b_0 \in F$ such that 
+- (1) $b_0$ is an upper bound of S
+- (2) if b is any other upper bound of S, then $b_0 \leq b$.
 - If it exists, the supremum of S is denoted sup(S).
 
 ![Screenshot from 2023-08-05 20-36-51](/img/Screenshot from 2023-08-05 20-36-51.png)
@@ -17,11 +17,11 @@ categories: jekyll update
 
 ## (2) Infimum: greatest lower bound
    
-- Let F be a set and \(S \subseteq F\) be nonempty. The infimum of S, if it exists, is some \(b_0 \in F\) such that 
-- (1) \(b_0\) is an lower bound of S
-- (2) if b is any other lower bound of S, then \(b_0 \geq b\).
+- Let F be a set and $S \subseteq F$ be nonempty. The infimum of S, if it exists, is some $b_0 \in F$ such that 
+- (1) $b_0$ is an lower bound of S
+- (2) if b is any other lower bound of S, then $b_0 \geq b$.
 - If it exists, the infimum of S is denoted inf(S).
 
 ## Ex (1)
-- If \(N \subseteq R\), sup(N) does not exiest. inf(N) = 1
-- If a set \(A = {x \in Q | x^2 \l}\)
+- If $N \subseteq R$, sup(N) does not exiest. inf(N) = 1
+- If a set $A = {x \in Q | x^2 \l}$
