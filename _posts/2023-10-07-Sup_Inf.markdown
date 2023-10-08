@@ -21,3 +21,7 @@ categories: jekyll update
 - (1) \(b_0\) is an lower bound of S
 - (2) if b is any other lower bound of S, then \(b_0 \geq b\).
 - If it exists, the infimum of S is denoted inf(S).
+
+## Ex (1)
+- If \(N \subseteq R\), sup(N) does not exiest. inf(N) = 1
+- 
