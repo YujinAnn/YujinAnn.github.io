@@ -24,4 +24,4 @@ categories: jekyll update
 
 ## Ex (1)
 - If \(N \subseteq R\), sup(N) does not exiest. inf(N) = 1
-- 
+- If a set \(A = {x \in Q | x^2 \l}\)
