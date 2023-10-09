@@ -13,7 +13,7 @@ categories: jekyll update
 
 ## System gain table
 - If u is known
-- We want to know the least upper bound on a norm of the output
-  $$\sup{||y|| : u=f(t)}$$
+- We want to know the least upper bound on a norm of the output, that is:
+  $$\sup\{||y|| : u=f(t)\}$$
  
 
