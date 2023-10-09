@@ -19,7 +19,7 @@ where the state vector is an n-dimensional vector $x_k \in R^n$, and u is an m-d
 ![Screenshot from 2023-10-08 20-36-51](/img/Screenshot from 2023-10-07 20-36-51.png)
 - This system stores energy as forms of potential energy (spring) and kinetic energy (mass).
 - Thus, The state vector is represented as follows:
-$$ x = | A | B |
+$$ x = | A | B |$$
 | - | - |
 | C | D |
 - 
