@@ -20,4 +20,4 @@ A norm on vector space V is a map $ \|\cdot\|$ : V $\rightarrow \mathbb{R} $ sat
 (i) $\|x\| \geq 0$ for all $x \in V$, with $\|x\|=0$ iff $x=0$
 
 (ii)  V $\rightarrow \mathbb{R} $
-  
+   $ \|\cdot\|$
