@@ -15,6 +15,6 @@ categories: jekyll update
 - If u is known
 - We want to know the least upper bound on a norm of the output, that is:
   
-  $$\sup {\{||y|| : u=f(t)\}} $$
+  $$\sup {{||y|| : u=f(t)}} $$
  
 
