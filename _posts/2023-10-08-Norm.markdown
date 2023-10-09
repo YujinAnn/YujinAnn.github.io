@@ -24,6 +24,7 @@ A norm on vector space V is a map ||.|| : V $\rightarrow$ $\mathbb{R}$ satisfyin
 (iii) $||x+y|| \leq ||x|| + ||y||$ for all $x, y \in V$
 
 ## Definition: Norm for Signals
-- Let's consider the mapping of signal $u(t) (-\infty, \infty)$to a scalar. ||.||:$u \rightarrow \mathbb{R}$
+- Let's consider the mapping of signal u(t) ($-\infty, \infty$)to a scalar. ||.||:u $\rightarrow \mathbb{R}$
+![Screenshot from 2023-10-08 20-36-53](/img/Screenshot from 2023-10-08 20-36-53.png)
 
 ## Definition: Norm for Systems
