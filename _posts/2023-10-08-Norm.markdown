@@ -19,5 +19,5 @@ A norm on vector space V is a map $ \|\cdot\| : V \rightarrow \mathbb{R} $ satis
 
 (i) $\|x\| \geq 0$ for all $x \in V$, with $\|x\|=0$ iff $x=0$
 
-(ii) $ \|\cdot\| : V \rightarrow \mathbb{R} $
+(ii) $ V \rightarrow \mathbb{R} $
   
