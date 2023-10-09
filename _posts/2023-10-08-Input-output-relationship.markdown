@@ -25,5 +25,10 @@ categories: jekyll update
  
 ![Screenshot from 2023-10-08 20-36-56](/img/Screenshot from 2023-10-08 20-36-56.png)
 
+![Screenshot from 2023-10-08 20-36-59](/img/Screenshot from 2023-10-08 20-36-59.png)
+
+![Screenshot from 2023-10-08 20-36-60](/img/Screenshot from 2023-10-08 20-36-60.png)
+
 ![Screenshot from 2023-10-08 20-36-57](/img/Screenshot from 2023-10-08 20-36-57.png)
+
 ![Screenshot from 2023-10-08 20-36-58](/img/Screenshot from 2023-10-08 20-36-58.png)
