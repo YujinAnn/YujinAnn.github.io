@@ -18,6 +18,9 @@ categories: jekyll update
 
 ![Screenshot from 2023-10-08 20-36-55](/img/Screenshot from 2023-10-08 20-36-55.png)
 
+**Entry (2,2)** The amplitude of the sinusoid (2,2) equals $|\hat{G}(jw)|$
+
+
 - More commonly, the disturbance signal will not be known a prior. Now suppose that $u$ is not a fixed signal but that it can be any signal of 2-norm $\leq 1$.
 - The least upper bound on the 2-norm of the output, that is:
   $$\sup (||y||_2 : ||u||_2 \leq 1) $$
