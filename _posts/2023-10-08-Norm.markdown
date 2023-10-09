@@ -8,14 +8,14 @@ categories: jekyll update
 ## How can we measure the size of certain signals of interest?
 - For example, to measure the performance of a tracking system, the size of the error signal need to be measured. 
 - Then, the control objective is to drive the distance between $x$ (output) and $x_d$ (desired output) to zero.
-$$\lim_{t \rightarrow \infty} \|x(t) - x_d(t)\| = 0$$
+$$\lim_{t \rightarrow \infty} ||x(t) - x_d(t)|| = 0$$
 - The measurement of signals is called norm.
 
 
 ## Definition: Norm
 - Usually, the vector Euclidean norm is used, but new norms can be computed if it satisfied the following properties.
 - 
-A norm on vector space V is a map $ \| \cdot \|: V \rightarrow R $ satisfying
+A norm on vector space V is a map $ || \cdot ||: V \rightarrow R $ satisfying
 
 (i) $\|x\| \geq 0$ for all $x \in V$, with $\|x\|=0$ iff $x=0$
   
