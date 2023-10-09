@@ -17,7 +17,7 @@ $$\lim_{t \rightarrow \infty} ||x(t) - x_d(t)|| = 0$$
  
 A norm on vector space V is a map ||.|| : V $\rightarrow$ $\mathbb{R}$ satisfying
 
-(i) $||x|| \geq 0$ for all $x \in V$, with $\|x\|=0$ iff $x=0$
+(i) $||x|| \geq 0$ for all $x \in V$, with $||x||=0$ iff $x=0$
 
 (ii) $||\alpha x|| = |\alpha|||x||$ for all $alpha \in K, x \in V$
 
