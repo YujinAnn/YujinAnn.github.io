@@ -32,3 +32,8 @@ A norm on vector space V is a map ||.|| : V $\rightarrow$ $\mathbb{R}$ satisfyin
 - For the transfer function $\hat{G}$
  
 ![Screenshot from 2023-10-08 20-36-54](/img/Screenshot from 2023-10-08 20-36-54.png)
+
+- Lemma:
+  Strictly proper is that the 2-norm of $\hat{G}$ finite and the $\hat{G}$ has no pole on the imaginary axis;
+
+  proper is that the $\infty$-norm is finite and $\hat{G}$ has no poles on the imaginary axis.
