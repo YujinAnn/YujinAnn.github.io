@@ -16,13 +16,14 @@ categories: jekyll update
 - We want to know the least upper bound on a norm of the output, that is:
   $$\sup (||y|| : u=f(t)) $$
 
-![Screenshot from 2023-10-08 20-36-54](/img/Screenshot from 2023-10-08 20-36-55.png)
+![Screenshot from 2023-10-08 20-36-55](/img/Screenshot from 2023-10-08 20-36-55.png)
 
 - More commonly, the disturbance signal will not be known a prior. Now suppose that $u$ is not a fixed signal but that it can be any signal of 2-norm $\leq 1$.
 - The least upper bound on the 2-norm of the output, that is:
   $$\sup (||y||_2 : ||u||_2 \leq 1) $$
   which we can call the 2-norm/2-norm system gain, equals the $\infty-$norm of $\hat{G}$.
  
-![Screenshot from 2023-10-08 20-36-55](/img/Screenshot from 2023-10-08 20-36-56.png)
+![Screenshot from 2023-10-08 20-36-56](/img/Screenshot from 2023-10-08 20-36-56.png)
 
-![Screenshot from 2023-10-08 20-36-55](/img/Screenshot from 2023-10-08 20-36-57.png)
+![Screenshot from 2023-10-08 20-36-57](/img/Screenshot from 2023-10-08 20-36-57.png)
+![Screenshot from 2023-10-08 20-36-58](/img/Screenshot from 2023-10-08 20-36-58.png)
