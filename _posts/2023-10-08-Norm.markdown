@@ -15,10 +15,15 @@ $$\lim_{t \rightarrow \infty} ||x(t) - x_d(t)|| = 0$$
 ## Definition: Norm
 - Usually, the vector Euclidean norm is used, but new norms can be computed if it satisfied the following properties.
 - 
-A norm on vector space V is a map $ ||.||$ : V $\rightarrow$ $\mathbb{R}$ satisfying
+A norm on vector space V is a map ||.|| : V $\rightarrow$ $\mathbb{R}$ satisfying
 
-(i) $\|x\| \geq 0$ for all $x \in V$, with $\|x\|=0$ iff $x=0$
+(i) $||x|| \geq 0$ for all $x \in V$, with $\|x\|=0$ iff $x=0$
 
 (ii) $||\alpha x|| = |\alpha|||x||$ for all $alpha \in K, x \in V$
 
 (iii) $||x+y|| \leq ||x|| + ||y||$ for all $x, y \in V$
+
+## Definition: Norm for Signals
+- Let's consider the mapping of signal $u(t) (-\infty, \infty)$to a scalar. ||.||:$u \rightarrow \mathbb{R}$
+
+## Definition: Norm for Systems
