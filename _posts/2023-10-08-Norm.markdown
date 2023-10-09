@@ -14,7 +14,7 @@ $$\lim_{t \rightarrow \infty} ||x(t) - x_d(t)|| = 0$$
 
 ## Definition: Norm
 - Usually, the vector Euclidean norm is used, but new norms can be computed if it satisfied the following properties.
-- 
+ 
 A norm on vector space V is a map ||.|| : V $\rightarrow$ $\mathbb{R}$ satisfying
 
 (i) $||x|| \geq 0$ for all $x \in V$, with $\|x\|=0$ iff $x=0$
@@ -30,4 +30,5 @@ A norm on vector space V is a map ||.|| : V $\rightarrow$ $\mathbb{R}$ satisfyin
 
 ## Definition: Norm for Systems
 - For the transfer function $\hat(G)$
+- 
 ![Screenshot from 2023-10-08 20-36-54](/img/Screenshot from 2023-10-08 20-36-54.png)
