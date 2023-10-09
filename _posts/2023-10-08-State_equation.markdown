@@ -16,10 +16,10 @@ where the state vector is an n-dimensional vector $x_k \in R^n$, and u is an m-d
 
 
 ## Ex: Mass-Spring-Damper System
-![Screenshot from 2023-10-08 20-36-51](/img/Screenshot from 2023-10-07 20-36-51.png)
+![Screenshot from 2023-10-08 20-36-51](/img/Screenshot from 2023-10-08 20-36-51.png)
 - This system stores energy as forms of potential energy (spring) and kinetic energy (mass).
 - Thus, The state vector is represented as $x = [p; \dot{p}]$
 - &\dot{p} = -\frac{k}{m} p -\frac{k}{m} \dot{p} +\frac{1}{m} u &
   
-![Screenshot from 2023-10-08 20-36-51](/img/Screenshot from 2023-10-07 20-36-52.png)
+![Screenshot from 2023-10-08 20-36-51](/img/Screenshot from 2023-10-08 20-36-52.png)
 
