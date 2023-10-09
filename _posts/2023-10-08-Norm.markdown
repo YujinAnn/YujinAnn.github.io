@@ -29,6 +29,6 @@ A norm on vector space V is a map ||.|| : V $\rightarrow$ $\mathbb{R}$ satisfyin
 ![Screenshot from 2023-10-08 20-36-53](/img/Screenshot from 2023-10-08 20-36-53.png)
 
 ## Definition: Norm for Systems
-- For the transfer function $\hat(G)$
-- 
+- For the transfer function $\hat{G}$
+ 
 ![Screenshot from 2023-10-08 20-36-54](/img/Screenshot from 2023-10-08 20-36-54.png)
