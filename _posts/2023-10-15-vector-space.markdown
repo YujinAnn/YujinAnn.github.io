@@ -24,7 +24,7 @@ In this context, the elements of V are commonly called vectors, and the elements
 
 
 ## Normed vector space
-A normed vector space is a vector space on which a norm is defined. If $ V $ is a vector space, and $ || \cdot || $ is a norm on $ V $, then the ordered pair $ (V, || \cdot ||) $ is called a normed vector space.
+A normed vector space is a vector space on which a norm is defined. If $V$ is a vector space, and $|| \cdot ||$ is a norm on $V$, then the ordered pair $(V, || \cdot ||)$ is called a normed vector space.
 
 
 ![Screenshot from 2023-10-08 20-36-51](/img/Screenshot from 2023-10-08 20-36-51.png)
