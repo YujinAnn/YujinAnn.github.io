@@ -17,14 +17,14 @@ To have a vector space, the eight following axioms must be satisfied for all $u,
 - inverse +: for all $v \in V$ there exists $-v \in V$ such that $v + (-v) = 0$
 - compatibility: $a(bv) = (ab)v$
 - identity \times: $1v=v$ 
-- distributivity in $V$: a(u+v) = au \times av
-- distributivity in $\mathbb{K}$: (a+b)v = av +bv
+- distributivity in $V$: $a(u+v) = au \times av$
+- distributivity in $\mathbb{K}$: $(a+b)v = av +bv$
 
 In this context, the elements of V are commonly called vectors, and the elements of $\mathbb{K}$ are called scalars.
 
 
 ## Normed vector space
-A normed vector space is a vector space on which a norm is defined. If $ V $ is a vector space, and $ \lVert \cdot \rVert $ is a norm on $ V $, then the ordered pair $ (V, \lVert \cdot \rVert) $ is called a normed vector space.
+A normed vector space is a vector space on which a norm is defined. If $ V $ is a vector space, and $ || \cdot || $ is a norm on $ V $, then the ordered pair $ (V, || \cdot ||) $ is called a normed vector space.
 
 
 ![Screenshot from 2023-10-08 20-36-51](/img/Screenshot from 2023-10-08 20-36-51.png)
