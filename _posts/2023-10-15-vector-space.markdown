@@ -8,9 +8,9 @@ categories: jekyll update
 ## Vector Space
 Let $\mathbb{K} = \mathbb{R} or \mathbb{C}$. A vector space $V$ over $\mathbb{K}$ is a set of elements, and operations +, x satisfying listed below. 
 In this context, the elements of V are commonly called vectors, and the elements of $\mathbb{K}$ are called scalars.
-To have a vector space, the eight following axioms must be satisfied $for all u, v, w \in V$, and $a, b in \mathbb{K}$.
+To have a vector space, the eight following axioms must be satisfied for all $u, v, w \in V$, and $a, b in \mathbb{K}$.
 
-- $u+v \in V; a X v \in V$
+- $u+v \in V; a \times v \in V$
 
 
 ## Normed vector space
