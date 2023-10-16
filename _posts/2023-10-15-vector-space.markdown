@@ -7,7 +7,7 @@ categories: jekyll update
 ![Screenshot from 2023-10-08 20-36-61](/img/Screenshot from 2023-10-08 20-36-61.png)
 
 ## Vector Space
-A vector space $V$ over $\mathbb{K}$ is a set of elements, and operations +, x such that
+A vector space $V$ over $\mathbb{K}$ is a set of elements along with operations +, x for combining these elements such that
 
 - $u+v \in V; a \times v \in V$
   
