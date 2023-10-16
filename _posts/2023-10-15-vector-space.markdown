@@ -26,7 +26,7 @@ In this context, the elements of V are commonly called vectors, and the elements
 
 ## Normed vector space
 A normed vector space is a vector space on which a norm is defined. 
-- {$\{v \in V: ||v|| < \infty \}$}
+- { $\{v \in V: ||v|| < \infty \}$ }
 
 If $V$ is a vector space, and $|| \cdot ||$ is a norm on $V$, then the ordered pair $(V, || \cdot ||)$ is called a normed vector space.
 
@@ -52,5 +52,5 @@ where $||\cdot||$ is any norm on $\mathbb{R}^m$
 
 ## Banach space
 - $V^n$ `converges` to $v \in V$ (written $v^n \rightarrow v$) if $||v^n - v|| \rightarrow 0$ as $n \rightarrow \infty$
-- {$v^n$ $}_{n \in \mathbb{N}}$ is `cauchy` if all 
+- { $v^n$ $ }_{n \in \mathbb{N}}$ is `cauchy` if all 
 - A complete normed vector space is called a Banach space.
