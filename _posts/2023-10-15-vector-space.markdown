@@ -33,7 +33,7 @@ If $V$ is a vector space, and $|| \cdot ||$ is a norm on $V$, then the ordered p
 ## $l^p$ space
 A $l^p(N; \mathbb{R}^m)$ space is a space of measurable functions $f: \mathbb{N} \rightarrow \mathbb{R}^m$ such that their $l^p$-norm is finite, $1 \leq p < \infty$: 
 
-$$||f||_{l^p} \coloneqq (\sum_{j=1}^\infty ||f(x)||^p )^{1/p} < \infty$$
+$$\|f\|_{L^p} \coloneqq \left( \sum_j=1^\infty \|f(x)\|^p \right)^{1/p} < \infty$$
 
 where $||\cdot||$ is any norm on $\mathbb{R}^m$ 
 
