@@ -39,7 +39,7 @@ A $L^p(D; \mathbb{R}^m)$ space is a space of measurable functions $f: D \rightar
 
 here, $D \subset \mathbb{R}^d$ bounded and open. 
 
-$$||f||_{L^p} \coloneqq (\int_D \|f(x)\|_{\mathbb{R}^m}^p \ dx )^{1/p} < \infty$$
+$$||f||_{L^p} \coloneqq (\int_D ||f(x)||^p_\mathbb{R} \ dx )^{1/p} < \infty$$
 
 where $||\cdot||_{\mathbb{R}^m}$ is any norm on $\mathbb{R}^m$ 
 
