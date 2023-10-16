@@ -8,4 +8,4 @@ categories: jekyll update
 
 ## Lipschitz
 $f: X \to X$ is Lipschitz if $\exists L \in (0, \infty)$ such that
-$$\sup_{u, v \in X, u \neq v} \frac{\| f(u) - f(v) \|}{\| u - v \|} \leq L.$$
+$$\sup_{u, v \in X, u \neq v} \frac{|| f(u) - f(v) ||}{|| u - v ||} \leq L.$$
