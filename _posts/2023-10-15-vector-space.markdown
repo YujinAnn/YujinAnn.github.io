@@ -30,10 +30,10 @@ A normed vector space is a vector space on which a norm is defined.
 
 If $V$ is a vector space, and $|| \cdot ||$ is a norm on $V$, then the ordered pair $(V, || \cdot ||)$ is called a normed vector space.
 
-## $l^p$ space
+## \(l^p\) space
 A $l^p(N; \mathbb{R}^m)$ space is a space of measurable functions $f: \mathbb{N} \rightarrow \mathbb{R}^m$ such that their $l^p$-norm is finite, $1 \leq p < \infty$: 
 
-$$\|f\|_{L^p} \coloneqq \left( \sum_1^\infty \|f(x)_j\|^p \right)^{1/p} < \infty$$
+$$\|f\|_{L^p} \coloneqq \left( \sum_(j=1)^\infty \|f(x)_j\|^p \right)^{1/p} < \infty$$
 
 where $||\cdot||$ is any norm on $\mathbb{R}^m$ 
 
