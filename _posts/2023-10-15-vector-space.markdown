@@ -37,8 +37,9 @@ If $V$ is a vector space, and $|| \cdot ||$ is a norm on $V$, then the ordered p
 ## $L^p$ space
 A $L^p(D; \mathbb{R^m})$ space is a space of measurable functions $f: D \rightarrow \mathbb{R}^m$ such that their $L^p$-norm is finite, $1 \leq p < \infty$ 
 
-here, $D \subset \mathbb{d}$ bounded and open. 
+here, $D \subset \mathbb{R}^d$ bounded and open. 
 
-$$||f||_{L^p} \coloneqq (\int_D ||f(x)||^p_{\mathbb{R}^m} \ dx )^{1/p} < \infty$$
+$$||f||_{L^p} \coloneqq {\int_D ||f(x)||^p_{\mathbb{R}^m} \ dx )^{1/p} < \infty$$
+
 where $||\cdot||_{\mathbb{R}^m}$ is any norm on $\mathbb{R}^m$ 
 
