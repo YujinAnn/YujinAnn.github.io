@@ -52,5 +52,6 @@ where $||\cdot||$ is any norm on $\mathbb{R}^m$
 
 ## Banach space
 - $v^n$ `converges` to $v \in V$ (written $v^n \rightarrow v$) if $||v^n - v|| \rightarrow 0$ as $n \rightarrow \infty$
-- { $v^n$ } ${}_{n \in \mathbb{N}}$ is `cauchy` if all 
+- { $v^n$ } ${}_{n \in \mathbb{N}}$ is `cauchy` if for all $\varepsilon > 0$, there exist $N=N(\varepsilon) > 0$: $||v^n - v^m||<\varepsilon$ for all $n \leq m \leq N$.
+- A normed vector space is `complete` if every cauch sequence converges to an element of the normed vector space. 
 - A complete normed vector space is called a Banach space.
