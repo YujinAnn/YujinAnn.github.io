@@ -51,6 +51,6 @@ where $||\cdot||$ is any norm on $\mathbb{R}^m$
 
 
 ## Banach space
-- $V^n$ `converges` to $v \in V$ (written $v^n \rightarrow v$) if $||v^n - v|| \rightarrow 0$ as $n \rightarrow \infty$
+- $v^n$ `converges` to $v \in V$ (written $v^n \rightarrow v$) if $||v^n - v|| \rightarrow 0$ as $n \rightarrow \infty$
 - { $v^n$ $ }_{n \in \mathbb{N}}$ is `cauchy` if all 
 - A complete normed vector space is called a Banach space.
