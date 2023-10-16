@@ -31,15 +31,19 @@ A normed vector space is a vector space on which a norm is defined.
 If $V$ is a vector space, and $|| \cdot ||$ is a norm on $V$, then the ordered pair $(V, || \cdot ||)$ is called a normed vector space.
 
 ## $l^p$ space
+A $l^p(N; \mathbb{R}^m)$ space is a space of measurable functions $f: \mathbb{N} \rightarrow \mathbb{R}^m$ such that their $l^p$-norm is finite, $1 \leq p < \infty$: 
 
+$$||f||_{l^p} \coloneqq (\sum_{j=1}^\infty ||f(x)||^p )^{1/p} < \infty$$
+
+where $||\cdot||$ is any norm on $\mathbb{R}^m$ 
 
 
 ## $L^p$ space
-A $L^p(D; \mathbb{R}^m)$ space is a space of measurable functions $f: D \rightarrow \mathbb{R}^m$ such that their $L^p$-norm is finite, $1 \leq p < \infty$ 
+A $L^p(D; \mathbb{R}^m)$ space is a space of measurable functions $f: D \rightarrow \mathbb{R}^m$ such that their $L^p$-norm is finite, $1 \leq p < \infty$: 
 
 here, $D \subset \mathbb{R}^d$ bounded and open. 
 
-$||f||_{L^p} \coloneqq (\int_D ||f(x)||^p \ dx )^{1/p} < \infty$
+$$||f||_{L^p} \coloneqq (\int_D ||f(x)||^p \ dx )^{1/p} < \infty$$
 
 where $||\cdot||$ is any norm on $\mathbb{R}^m$ 
 
