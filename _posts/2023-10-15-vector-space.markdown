@@ -32,9 +32,9 @@ If $V$ is a vector space, and $|| \cdot ||$ is a norm on $V$, then the ordered p
 
 - $l^p$ space
   
-A $l^p(N; \mathbb{R}^m)$ space is a subspace of $\mathbb{K}^N$ such that their $l^p$-norm is finite, $1 \leq p < \infty$: 
+A $l^p(N; \mathbb{R}^m)$ space is a subspace of $\mathbb{R}^m$ such that their $l^p$-norm is finite, $1 \leq p < \infty$: 
 
-$$\|x\|_{l^p} \coloneqq \left( \sum_n ||x_n||^p \right)^{1/p} < \infty$$
+$$||x||_{l^p} \coloneqq \left( \sum_n ||x_n||^p \right)^{1/p} < \infty$$
 
 where $||\cdot||$ is any norm on $\mathbb{R}^m$ 
 
