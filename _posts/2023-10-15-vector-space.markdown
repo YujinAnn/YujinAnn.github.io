@@ -55,3 +55,7 @@ where $||\cdot||$ is any norm on $\mathbb{R}^m$
 - A sequence { $v^n$ } ${}_{n \in \mathbb{N}}$ in a normed vector space $(V, ||\cdot||)$ is `cauchy` if for all $\varepsilon > 0$, there exist $N=N(\varepsilon) > 0$ such that $||v^n - v^m||<\varepsilon$ for all $n \leq m \leq N$.
 - A normed vector space $V$ is `complete` if every cauchy sequence converges to an element $v \in V$. 
 - A complete normed vector space is called a `Banach space`.
+
+
+## Hilbert space
+- An inner product space ($H, <\cdot, \cdot>, ||\cdot||$) which is complete as a normed vector space is a Hilbert space.
